@@ -94,6 +94,7 @@ UNITY_TO_FLEURS_LANG_MAPPING = {
     "cmn": "cmn_hans_cn",
     "tgl": "fil_ph",
     "khm": "km_kh",
+    "khk": "mn_mn",
 }
 
 
