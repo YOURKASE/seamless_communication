@@ -93,6 +93,7 @@ UNITY_TO_FLEURS_LANG_MAPPING = {
     "zul": "zu_za",
     "cmn": "cmn_hans_cn",
     "tgl": "fil_ph",
+    "khm": "km_kh",
 }
 
 
