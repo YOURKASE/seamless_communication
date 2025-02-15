@@ -92,6 +92,7 @@ UNITY_TO_FLEURS_LANG_MAPPING = {
     "yor": "yo_ng",
     "zul": "zu_za",
     "cmn": "cmn_hans_cn",
+    "tgl": "fil_ph",
 }
 
 
